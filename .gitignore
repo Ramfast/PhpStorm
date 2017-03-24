@@ -1,4 +1,6 @@
-/colors/
+colors/*
+!colors/monomonster.icls
+
 /consoles/
 /disabled_*
 /extensions/
