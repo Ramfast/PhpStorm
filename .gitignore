@@ -13,3 +13,5 @@ colors/*
 /tasks/
 
 *.key
+.DS_STORE
+DS_STORE
